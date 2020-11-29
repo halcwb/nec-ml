@@ -1,0 +1,11 @@
+# Ignore all
+*
+
+# Add ignore file
+!.gitignore
+
+# Add md files
+!*.md
+
+# Add script files
+!*.fsx
